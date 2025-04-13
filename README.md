@@ -2,6 +2,8 @@
 
 🧑‍🎓 Computer science & engineering student<br/>
 🤖 Machine Learning<br/>
+Manifesting positive energy only! 
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ngoc-anh-kiet-david-tran-191831278/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:nakdt9@gmail.com) 
