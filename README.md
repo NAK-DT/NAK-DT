@@ -1,7 +1,7 @@
 ## Hello
 
 🧑‍🎓 Computer science & engineering student<br/>
-🤖 Machine Learning<br/>
+🤖 <br/>
 Manifesting positive energy only! 
 
 
