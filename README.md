@@ -1,8 +1,7 @@
-## Hello
+## Hi, I'm Nak 👋👨‍💻
 
-🧑‍🎓 Computer science & engineering student<br/>
-🤖 <br/>
-Manifesting positive energy only! 
+I'm a Computer Science & Engineering graduate student specializing in Artificial Intelligence. I'm passionate about machine learning, I try to stay in touch with the new trends. Right now, I'm currently doing a master's thesis
+on a machine learning framework, Deep Forest, it replicates the structure of a DNN with the neurons as tree ensembles instead. 
 
 
 ## 🌐 Socials:
